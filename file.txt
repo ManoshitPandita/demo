@@ -1,4 +1,6 @@
 hello world
 
-implemented log in feature
-updated to fix1
+change 1 implements log in feature
+change 2 updated to fix1
+
+done by master
