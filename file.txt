@@ -1,8 +1,8 @@
 hello world
 
-change 1 Implements log in feature
+change 1 : Implements log in feature
 
-change 2 Updated to fix1
+change 2 : Updated to fix1
 
 done by master
 
